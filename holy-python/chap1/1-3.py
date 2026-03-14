@@ -1,0 +1,6 @@
+int_a = int(input("输入整数1: "))
+int_b = int(input("输入整数2: "))
+print(f"{int_a} + {int_b} = " + str(int_a + int_b))
+print(f"{int_a} - {int_b} = " + str(int_a - int_b))
+print(f"{int_a} * {int_b} = " + str(int_a * int_b))
+print(f"{int_a} / {int_b} = " + str(int_a / int_b))
