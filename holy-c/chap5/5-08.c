@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-int main ()
+int main()
 {
     double a, b, sum, total;
     a = 1;
